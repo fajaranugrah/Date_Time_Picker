@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity() {
                         // On dialog closed
                     }
                 })
-                .title("Simple")
                 .listener(object : SingleDateAndTimePickerIOSDialog.Listener {
                     override fun onDateSelected(date: Date?) {
                         Toast.makeText(
