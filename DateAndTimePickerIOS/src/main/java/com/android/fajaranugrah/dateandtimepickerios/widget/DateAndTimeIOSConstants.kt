@@ -1,4 +1,4 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
 object DateAndTimeIOSConstants {
     const val MIN_HOUR_DEFAULT = 0

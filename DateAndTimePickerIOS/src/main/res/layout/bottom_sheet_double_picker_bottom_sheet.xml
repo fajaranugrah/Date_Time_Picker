@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 >
 
-                <com.android.fajaranugrah.date_and_time_picker_ios.DateAndTimePickerIOS
+                <com.android.fajaranugrah.dateandtimepickerios.DateAndTimePickerIOS
                     android:id="@+id/picker_tab_0"
                     android:layout_width="match_parent"
                     android:layout_height="230dp"
@@ -73,7 +73,7 @@
                 android:layout_height="wrap_content"
                 >
 
-                <com.android.fajaranugrah.date_and_time_picker_ios.DateAndTimePickerIOS
+                <com.android.fajaranugrah.dateandtimepickerios.DateAndTimePickerIOS
                     android:id="@+id/picker_tab_1"
                     android:layout_width="match_parent"
                     android:layout_height="230dp"

@@ -3,8 +3,8 @@ package com.example.datetimepicker
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.android.fajaranugrah.date_and_time_picker_ios.DateAndTimePickerIOS
-import com.android.fajaranugrah.date_and_time_picker_ios.dialog.SingleDateAndTimePickerIOSDialog
+import com.android.fajaranugrah.dateandtimepickerios.DateAndTimePickerIOS
+import com.android.fajaranugrah.dateandtimepickerios.dialog.SingleDateAndTimePickerIOSDialog
 import com.example.datetimepicker.databinding.ActivityMainBinding
 import java.util.*
 

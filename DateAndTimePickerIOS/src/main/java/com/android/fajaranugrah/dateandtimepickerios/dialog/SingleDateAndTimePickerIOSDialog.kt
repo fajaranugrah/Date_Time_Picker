@@ -1,14 +1,14 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.dialog
+package com.android.fajaranugrah.dateandtimepickerios.dialog
 
 import android.content.Context
 import android.view.View
 import android.widget.TextView
 import androidx.annotation.ColorInt
-import com.android.fajaranugrah.date_and_time_picker_ios.DateAndTimePickerIOS
-import com.android.fajaranugrah.date_and_time_picker_ios.DateHelper
-import com.android.fajaranugrah.date_and_time_picker_ios.R
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateAndTimeIOSConstants
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateWithLabel
+import com.android.fajaranugrah.dateandtimepickerios.DateAndTimePickerIOS
+import com.android.fajaranugrah.dateandtimepickerios.DateHelper
+import com.android.fajaranugrah.dateandtimepickerios.R
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateAndTimeIOSConstants
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateWithLabel
 import java.text.SimpleDateFormat
 import java.util.*
 

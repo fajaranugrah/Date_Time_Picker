@@ -1,8 +1,8 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
 import android.content.Context
 import android.util.AttributeSet
-import com.android.fajaranugrah.date_and_time_picker_ios.R
+import com.android.fajaranugrah.dateandtimepickerios.R
 import java.util.*
 
 class WheelAmPmPicker @JvmOverloads constructor(

@@ -1,4 +1,4 @@
-package com.android.fajaranugrah.date_and_time_picker_ios
+package com.android.fajaranugrah.dateandtimepickerios
 
 import android.content.Context
 import android.graphics.Typeface
@@ -9,7 +9,7 @@ import android.view.View
 import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
 import androidx.core.content.res.ResourcesCompat
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.*
+import com.android.fajaranugrah.dateandtimepickerios.widget.*
 import java.text.SimpleDateFormat
 import java.util.*
 

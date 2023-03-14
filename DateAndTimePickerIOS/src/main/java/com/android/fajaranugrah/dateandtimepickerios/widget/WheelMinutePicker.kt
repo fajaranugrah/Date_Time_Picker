@@ -1,10 +1,10 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
 import android.content.Context
 import android.util.AttributeSet
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateAndTimeIOSConstants.MAX_MINUTES
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateAndTimeIOSConstants.MIN_MINUTES
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateAndTimeIOSConstants.STEP_MINUTES_DEFAULT
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateAndTimeIOSConstants.MAX_MINUTES
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateAndTimeIOSConstants.MIN_MINUTES
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateAndTimeIOSConstants.STEP_MINUTES_DEFAULT
 import java.util.*
 
 class WheelMinutePicker @JvmOverloads constructor(

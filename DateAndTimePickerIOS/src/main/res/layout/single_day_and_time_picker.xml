@@ -13,14 +13,14 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelDayPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelDayPicker
             android:id="@+id/daysPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             app:wheel_atmospheric="true"
             app:wheel_item_align="right" />
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelDayOfMonthPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelDayOfMonthPicker
             android:id="@+id/daysOfMonthPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -29,7 +29,7 @@
             app:wheel_atmospheric="true"
             app:wheel_item_align="right" />
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelMonthPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelMonthPicker
             android:id="@+id/monthPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -38,7 +38,7 @@
             app:wheel_atmospheric="true"
             app:wheel_item_align="right" />
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelYearPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelYearPicker
             android:id="@+id/yearPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -47,7 +47,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"/>
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelHourPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelHourPicker
             android:id="@+id/hoursPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -56,14 +56,14 @@
             app:wheel_atmospheric="true"
             app:wheel_item_align="center" />
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelMinutePicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelMinutePicker
             android:id="@+id/minutesPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             app:wheel_atmospheric="true"
             app:wheel_item_align="center" />
 
-        <com.android.fajaranugrah.date_and_time_picker_ios.widget.WheelAmPmPicker
+        <com.android.fajaranugrah.dateandtimepickerios.widget.WheelAmPmPicker
             android:id="@+id/amPmPicker"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"

@@ -1,4 +1,4 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
 import android.content.Context
 import android.text.TextUtils

@@ -1,4 +1,4 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -16,9 +16,9 @@ import android.view.View
 import android.view.ViewConfiguration
 import android.widget.Scroller
 import androidx.annotation.StringRes
-import com.android.fajaranugrah.date_and_time_picker_ios.DateHelper
-import com.android.fajaranugrah.date_and_time_picker_ios.LocaleHelper.getString
-import com.android.fajaranugrah.date_and_time_picker_ios.R
+import com.android.fajaranugrah.dateandtimepickerios.DateHelper
+import com.android.fajaranugrah.dateandtimepickerios.LocaleHelper.getString
+import com.android.fajaranugrah.dateandtimepickerios.R
 import java.util.*
 
 abstract class WheelPicker<V> @JvmOverloads constructor(

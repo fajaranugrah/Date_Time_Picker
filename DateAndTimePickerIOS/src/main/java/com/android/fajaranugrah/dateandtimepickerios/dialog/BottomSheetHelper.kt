@@ -1,4 +1,4 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.dialog
+package com.android.fajaranugrah.dateandtimepickerios.dialog
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter
@@ -12,7 +12,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewTreeObserver
 import android.view.WindowManager
-import com.android.fajaranugrah.date_and_time_picker_ios.R
+import com.android.fajaranugrah.dateandtimepickerios.R
 
 class BottomSheetHelper(private val context: Context, private val layoutId: Int) {
     private var view: View? = null

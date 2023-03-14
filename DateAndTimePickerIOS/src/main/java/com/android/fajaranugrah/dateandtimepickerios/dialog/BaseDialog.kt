@@ -1,8 +1,8 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.dialog
+package com.android.fajaranugrah.dateandtimepickerios.dialog
 
 import android.graphics.Color
 import androidx.annotation.ColorInt
-import com.android.fajaranugrah.date_and_time_picker_ios.widget.DateAndTimeIOSConstants
+import com.android.fajaranugrah.dateandtimepickerios.widget.DateAndTimeIOSConstants
 import java.text.SimpleDateFormat
 import java.util.*
 

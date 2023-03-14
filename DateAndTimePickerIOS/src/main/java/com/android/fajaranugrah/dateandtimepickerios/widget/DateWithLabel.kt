@@ -1,6 +1,6 @@
-package com.android.fajaranugrah.date_and_time_picker_ios.widget
+package com.android.fajaranugrah.dateandtimepickerios.widget
 
-import com.android.fajaranugrah.date_and_time_picker_ios.DateHelper.Companion.compareDateIgnoreTime
+import com.android.fajaranugrah.dateandtimepickerios.DateHelper.Companion.compareDateIgnoreTime
 import java.util.*
 
 class DateWithLabel(val label: String, val date: Date?) {
