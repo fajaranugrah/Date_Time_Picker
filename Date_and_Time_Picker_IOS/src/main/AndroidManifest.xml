@@ -1,1 +1,5 @@
-<manifest package="com.android.fajaranugrah.date_and_time_picker_ios"/>
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.fajaranugrah.date_and_time_picker_ios">
+
+</manifest>
