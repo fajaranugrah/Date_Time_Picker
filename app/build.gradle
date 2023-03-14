@@ -52,6 +52,6 @@ dependencies {
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10"
+    implementation project(path: ':DateAndTimePickerIOS')
 
-    implementation project(path: ':Date_and_Time_Picker_IOS')
 }

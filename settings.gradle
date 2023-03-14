@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Date Time Picker"
 include ':app'
-include ':Date_and_Time_Picker_IOS'
+include ':DateAndTimePickerIOS'
