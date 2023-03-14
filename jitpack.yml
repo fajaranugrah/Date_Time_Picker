@@ -1,4 +1,4 @@
 jdk:
   - openjdk11
 install:
-  - ./gradlew build :Date_and_Time_Picker_IOS:publishToMavenLocal
+  - ./gradlew build :DateTimePicker:publishToMavenLocal
