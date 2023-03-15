@@ -1,4 +1,4 @@
-[![](https://jitpack.io/#fajaranugrah/Date_Time_Picker.svg)](https://jitpack.io/#fajaranugrah/Date_Time_Picker)
+[![](https://jitpack.io/v/fajaranugrah/Date_Time_Picker.svg)](https://jitpack.io/#fajaranugrah/Date_Time_Picker)
 
 # Date_Time_Picker
 
