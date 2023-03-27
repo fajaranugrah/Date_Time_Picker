@@ -15,10 +15,10 @@ android {
     compileSdk 33
 
     defaultConfig {
-        minSdk 24
+        minSdk 19
         targetSdk 33
-        versionCode 13
-        versionName "0.13"
+        versionCode 14
+        versionName "0.14"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
@@ -50,7 +50,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.10"
     implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.google.android.material:material:1.9.0-alpha02'
+    implementation 'com.google.android.material:material:1.9.0-beta01'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
@@ -64,7 +64,7 @@ project.afterEvaluate {
                 from components.release
                 groupId 'com.android.fajaranugrah'
                 artifactId 'Date_Time_Picker'
-                version '0.13'
+                version '0.14'
                 //artifact androidSourcesJar // optional sources
             }
         }
